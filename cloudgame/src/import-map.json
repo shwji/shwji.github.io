@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "virtual:///prerequisite-imports/internal": "chunks:///internal.js",
+    "virtual:///prerequisite-imports/main": "chunks:///main.js",
+    "cc": "./../cocos-js/cc.js",
+    "wait-for-ammo-instantiation": "./../cocos-js/wait-for-ammo-instantiation.js"
+  }
+}
